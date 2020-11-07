@@ -1,0 +1,9 @@
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_01\Szoftverfejlesztés\Feladatok\20201104_Matrix\20201104_Matrix\bin\Debug\20201104_Matrix.exe.config
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_01\Szoftverfejlesztés\Feladatok\20201104_Matrix\20201104_Matrix\bin\Debug\20201104_Matrix.exe
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_01\Szoftverfejlesztés\Feladatok\20201104_Matrix\20201104_Matrix\bin\Debug\20201104_Matrix.pdb
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_01\Szoftverfejlesztés\Feladatok\20201104_Matrix\20201104_Matrix\obj\Debug\20201104_Matrix.csprojAssemblyReference.cache
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_01\Szoftverfejlesztés\Feladatok\20201104_Matrix\20201104_Matrix\obj\Debug\_20201104_Matrix.Form1.resources
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_01\Szoftverfejlesztés\Feladatok\20201104_Matrix\20201104_Matrix\obj\Debug\_20201104_Matrix.Properties.Resources.resources
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_01\Szoftverfejlesztés\Feladatok\20201104_Matrix\20201104_Matrix\obj\Debug\20201104_Matrix.csproj.GenerateResource.cache
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_01\Szoftverfejlesztés\Feladatok\20201104_Matrix\20201104_Matrix\obj\Debug\20201104_Matrix.exe
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_01\Szoftverfejlesztés\Feladatok\20201104_Matrix\20201104_Matrix\obj\Debug\20201104_Matrix.pdb
