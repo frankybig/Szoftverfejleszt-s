@@ -1,0 +1,11 @@
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_02_-_2021_01\Szoftverfejlesztés\20210323_Útnyílvántartó\Project\20210323_Utnyilvantarto\20210323_Utnyilvantarto\bin\Debug\20210323_Utnyilvantarto.exe.config
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_02_-_2021_01\Szoftverfejlesztés\20210323_Útnyílvántartó\Project\20210323_Utnyilvantarto\20210323_Utnyilvantarto\bin\Debug\20210323_Utnyilvantarto.exe
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_02_-_2021_01\Szoftverfejlesztés\20210323_Útnyílvántartó\Project\20210323_Utnyilvantarto\20210323_Utnyilvantarto\bin\Debug\20210323_Utnyilvantarto.pdb
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_02_-_2021_01\Szoftverfejlesztés\20210323_Útnyílvántartó\Project\20210323_Utnyilvantarto\20210323_Utnyilvantarto\obj\Debug\20210323_Utnyilvantarto.csprojAssemblyReference.cache
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_02_-_2021_01\Szoftverfejlesztés\20210323_Útnyílvántartó\Project\20210323_Utnyilvantarto\20210323_Utnyilvantarto\obj\Debug\_20210323_Utnyilvantarto.Properties.Resources.resources
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_02_-_2021_01\Szoftverfejlesztés\20210323_Útnyílvántartó\Project\20210323_Utnyilvantarto\20210323_Utnyilvantarto\obj\Debug\20210323_Utnyilvantarto.csproj.GenerateResource.cache
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_02_-_2021_01\Szoftverfejlesztés\20210323_Útnyílvántartó\Project\20210323_Utnyilvantarto\20210323_Utnyilvantarto\obj\Debug\20210323_Utnyilvantarto.exe
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_02_-_2021_01\Szoftverfejlesztés\20210323_Útnyílvántartó\Project\20210323_Utnyilvantarto\20210323_Utnyilvantarto\obj\Debug\20210323_Utnyilvantarto.pdb
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_02_-_2021_01\Szoftverfejlesztés\20210323_Útnyílvántartó\Project\20210323_Utnyilvantarto\20210323_Utnyilvantarto\obj\Debug\_20210323_Utnyilvantarto.Form1.resources
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_02_-_2021_01\Szoftverfejlesztés\20210323_Útnyílvántartó\Project\20210323_Utnyilvantarto\20210323_Utnyilvantarto\obj\Debug\_20210323_Utnyilvantarto.mainform.resources
+C:\--==[DSZC_Szoftverfejlesztő]==--\2020_02_-_2021_01\Szoftverfejlesztés\20210323_Útnyílvántartó\Project\20210323_Utnyilvantarto\20210323_Utnyilvantarto\obj\Debug\_20210323_Utnyilvantarto.Adatrogzites.resources
